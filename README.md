@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi everyone! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RidmMxNW9keXVuejlxdGwycmw1MjdwdTZ6djZ1aXJ2YzUzODl4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif" width="25"/>
 
-<!--
-**Yomayez/Yomayez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :speech_balloon: About Me :
+I'm a beginner Python developer from Russia
+- I'm not working, but learning Backend development
 
-Here are some ideas to get you started:
+- Always learning new things about PC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- In my free time, I play games
+
+- How to reach me: Telegram - [@Yomayes](https://t.me/Yomayes)
+
+## Good bye! 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHJqY2tyYnVtM2gxZDhxODY0OWNnbTZodW5yaDhnYnFldzZncmRzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9Z7SJLN4UYgGcVZQaJ/giphy.gif" width="75"/>
