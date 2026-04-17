@@ -2,7 +2,7 @@
 
 ### :speech_balloon: About Me :
 I'm a beginner Python developer from Russia
-- I'm not working, but learning Backend development
+- I'm not working, but learning programming
 
 - Always learning new things about PC
 
